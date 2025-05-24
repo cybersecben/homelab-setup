@@ -5,7 +5,7 @@ Self-hosted media server for streaming movies and TV shows.
 
 ## Deployment
 - Type: LXC container
-- Base: Debian template
+- Base: Ubuntu template
 - Install via official Jellyfin repo
 
 ## Storage
