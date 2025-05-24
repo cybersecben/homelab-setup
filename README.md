@@ -1,11 +1,46 @@
 # Home Lab & Proxmox Setup
 
-This repository documents the setup and evolution of my personal home lab, which I use to learn about virtualization, system administration, and cybersecurity.
+This repository documents the setup, configuration, and ongoing evolution of my personal home server — a place where I experiment with virtualization, system administration, and cybersecurity tools.
 
-Currently running:
-- Proxmox VE on a mini PC
-- Jellyfin for media streaming
-- [Planned] Nextcloud for personal cloud storage
-- [Planned] Network monitoring & cybersecurity tools
+---
 
-More services and notes will be added over time as I expand the lab.
+## Goals
+
+- Learn by doing — documenting every step to solidify knowledge.
+- Build a private ecosystem of services like media hosting and personal cloud.
+- Explore cybersecurity tooling in a safe and isolated environment.
+- Create a portfolio of practical experience to support my career in cybersecurity.
+
+---
+
+## Current Setup
+
+**Hardware:**
+- Mini PC (Proxmox Host)
+- 128GB SSD (OS), 1TB SSD (Media), 480GB SSD (Storage)
+
+**Hypervisor:**
+- [Proxmox VE version]
+
+**Virtual Machines & Containers:**
+- `Jellyfin` – media server (LXC)
+- `Ubuntu Server` – general-purpose testing
+
+---
+
+## Planned Services
+
+- ✅ Jellyfin (deployed)
+- ⏳ Nextcloud or alternative for personal cloud
+- ⏳ Network monitoring tool 
+- ⏳ Cyber defense/analysis tools 
+
+---
+
+## Structure of This Repo
+
+- `proxmox/` – notes on system architecture, VM setup, backups.
+- `services/` – configs and setup guides for hosted services.
+- `notes/` – things I’ve learned, useful resources, and troubleshooting tips.
+
+---
