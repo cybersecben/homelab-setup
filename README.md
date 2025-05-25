@@ -24,6 +24,7 @@ This repository documents the setup, configuration, and ongoing evolution of my 
 
 **Virtual Machines & Containers:**
 - `Jellyfin` – media server (LXC)
+- `Adguard Home` - DNS and ad/tracker blocker
 - `Ubuntu Server` – general-purpose testing
 
 ---
@@ -31,7 +32,8 @@ This repository documents the setup, configuration, and ongoing evolution of my 
 ## Planned Services
 
 - ✅ Jellyfin (deployed)
-- ⏳ Nextcloud or alternative for personal cloud
+- ✅ Aguard (deployed)
+- ⏳ Personal cloud
 - ⏳ Network monitoring tool 
 - ⏳ Cyber defense/analysis tools 
 
