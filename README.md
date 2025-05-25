@@ -32,7 +32,7 @@ This repository documents the setup, configuration, and ongoing evolution of my 
 ## Planned Services
 
 - ✅ Jellyfin (deployed)
-- ✅ Aguard (deployed)
+- ✅ AdGuard Home (deployed)
 - ⏳ Personal cloud
 - ⏳ Network monitoring tool 
 - ⏳ Cyber defense/analysis tools 
