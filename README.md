@@ -18,6 +18,8 @@ This repository documents the setup, configuration, and ongoing evolution of my 
 **Hardware:**
 - Mini PC (Proxmox Host)
 - 128GB SSD (OS), 1TB SSD (Media), 480GB SSD (Storage)
+- ISP provided router (working as bridged modem)
+- Third party router (NAT, DHCP, DNS, IP Reservation)
 
 **Hypervisor:**
 - [Proxmox VE version]
