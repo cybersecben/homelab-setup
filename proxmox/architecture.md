@@ -15,4 +15,5 @@
 ## Network
 - Bridged networking ISP router
 - Own router handles DHCP
+- Reserved IP addresses for Home Lab services
 - Adguard handles DNS
