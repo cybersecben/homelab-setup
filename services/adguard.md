@@ -22,3 +22,9 @@ AdGuard Home is a network-wide tracker and ad blocker. It functions as a DNS ser
 
 ```bash
 curl -s -S -L https://raw.githubusercontent.com/AdguardTeam/AdGuardHome/master/scripts/install.sh | sh -s -- -v
+```
+
+---
+
+## Visual Dashboard
+![imagen](https://github.com/user-attachments/assets/71d50aeb-d260-4c46-bff3-bc38faa1ae58)
