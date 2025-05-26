@@ -29,6 +29,9 @@ This repository documents the setup, configuration, and ongoing evolution of my 
 - `Adguard Home` - DNS and ad/tracker blocker
 - `Ubuntu Server` – general-purpose testing
 
+**Visual Dashboard**
+![imagen](https://github.com/user-attachments/assets/35c376f4-94dd-4bb8-932c-fe59e1e637a6)
+
 ---
 
 ## Planned Services
