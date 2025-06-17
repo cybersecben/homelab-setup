@@ -38,7 +38,7 @@ This repository documents the setup, configuration, and ongoing evolution of my 
 
 - ✅ Jellyfin (deployed)
 - ✅ AdGuard Home (deployed)
-- ⏳ Personal cloud
+- ✅ Seafile Personal cloud (deployed)
 - ⏳ Network monitoring tool 
 - ⏳ Cyber defense/analysis tools 
 
